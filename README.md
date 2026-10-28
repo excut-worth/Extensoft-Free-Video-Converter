@@ -213,4 +213,4 @@ Extensoft Free Video Converter is offered as a **full free version**, meaning al
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-27 23:38:04 UTC
+**Last updated:** 2026-10-28 04:46:02 UTC
